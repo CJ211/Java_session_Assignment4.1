@@ -1,0 +1,15 @@
+package abc.access.otherpackage;
+ 
+import abc.access.ABC;
+ 
+
+public class ABC_AccessMethod {
+ 
+	public static void main(String[] args) {
+		
+		ABC jbtObject = new ABC();
+ 
+		abcObject.publicMethod();
+ }
+}
+ 
